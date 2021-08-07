@@ -15,7 +15,7 @@
   
 <h3>💻 I’m currently learning: </h3>
   
-<div>
+<div style="display: inline_block">
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/lydyanah?tab=repositories">
   <img align="center" alt="Logo-HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Logo-CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
